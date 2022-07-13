@@ -25,6 +25,13 @@ fun main() {
     println("Now I will prove to you that I can count to any number you want.")
 
     // read a number and count to it here
+    val count = scanner.nextInt()
+    var regres = 0
+
+    repeat(count+1) {
+        println("$regres!")
+        regres++
+    }
 
     println("Completed, have a nice day!")
 }
