@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun resume(marks: Triple<String, Int, List<Double>>): Pair<String, Double> {
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19958#comment
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+
+    1 of 1 test(s) passed.</html>
+  time: Wed, 13 Jul 2022 15:21:04 UTC
+record: -1
